@@ -1,0 +1,19 @@
+
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+    font-family: 'Segoe UI', Arial, Helvetica, sans-serif;
+}
+
+body{
+    background: linear-gradient(to right, rgb(161, 161, 245), rgb(250, 171, 24));
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container{
+    margin-bottom: 2rem;
+}
